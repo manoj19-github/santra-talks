@@ -1,0 +1,7 @@
+@import "./globals.scss";
+.line{
+  @include line-clamp(3);
+}
+.line-5{
+  @include line-clamp(3);
+}
